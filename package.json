@@ -1,0 +1,32 @@
+{
+  "name": "react-namste",
+  "version": "1.0.0",
+  "description": "this is a Namesta React by Sriram",
+  "keywords": [],
+  "homepage": "https://github.com/nunnaram/reactCourse#readme",
+  "bugs": {
+    "url": "https://github.com/nunnaram/reactCourse/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nunnaram/reactCourse.git"
+  },
+  "license": "ISC",
+  "author": "Sriram",
+  "type": "commonjs",
+  
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "browserlist":[
+    "last 2 versions"
+] 
+}

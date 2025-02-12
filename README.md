@@ -36,3 +36,22 @@ Contributions are welcome! Please open an issue or submit a pull request.
 ## License
 
 This project is licensed under the MIT License.
+
+## Parcel
+- Dev Build
+- Local Server
+- HMR = Hot Module Replacement
+- File Watcing Algorithm - written in c++
+- Caching - Faster Builds
+- Image Optimization
+- Minification
+- Bundling
+- Compress
+- Consistent Hashing
+- Code Splitting
+- Differential Bundling - Support Older Browsers
+- Diagnostics
+- Error Handling
+- SSL features(HTTPS)
+- Tree Shaking - remove unsed code from Build
+- different Dev and Prod Bundles
