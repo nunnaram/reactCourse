@@ -55,3 +55,25 @@ This project is licensed under the MIT License.
 - SSL features(HTTPS)
 - Tree Shaking - remove unsed code from Build
 - different Dev and Prod Bundles
+
+## Snajay Food APP
+
+/**
+ * Header
+ * -logo
+ * -navitems
+ * -cart
+ * Body
+ * -serarch
+ * -restuarantontainer
+ *  -restuarant card
+ *    -image
+ *    -name
+*     -star rating
+      -cuisins
+ * footer
+ * -social links
+ * -Copyrigth
+ * -address
+ * -contact
+ */
