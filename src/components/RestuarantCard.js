@@ -9,8 +9,7 @@ const RestuarantCard = (props) => {
             <h3 className='name'>{name}</h3>
             <div className='rating'>{avgRating}</div>
             <div className='cuisins'>{cuisines.join(", ")}</div>
-            <div className='delivery-time'>{deliveryTime} mins</div>
-            <div className='cost-for-two'>{costForTwo}</div>
+            {costForTwo ? <div className='cost-for-two'>{costForTwo}</div> : null}
         </div>
     )
 }
