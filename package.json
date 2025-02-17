@@ -16,6 +16,7 @@
   "type": "commonjs",
   
   "scripts": {
+    "dev": "parcel serve index.html",
     "start": "parcel index.html",
     "build": "parcel build index.html",
     "test": "jest"
