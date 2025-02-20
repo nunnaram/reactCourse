@@ -14,7 +14,6 @@
   "license": "ISC",
   "author": "Sriram",
   "type": "commonjs",
-  
   "scripts": {
     "dev": "parcel serve index.html",
     "start": "parcel index.html",
@@ -27,9 +26,11 @@
   },
   "dependencies": {
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "react-router": "^6.29.0",
+    "react-router-dom": "^6.29.0"
   },
-  "browserlist":[
+  "browserlist": [
     "last 2 versions"
-] 
+  ]
 }
