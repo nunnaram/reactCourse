@@ -8,5 +8,10 @@ jobs:
 
   steps:
    - uses: actions/checkout@v3
+   
    - name: Run react code
      run: echo "Runing the workflow this eg action"
+
+   - name: CHecking errors
+     run: echo "Erorr Check the workflow this eg action"; exit 1
+     
