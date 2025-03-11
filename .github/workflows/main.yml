@@ -1,0 +1,12 @@
+name: React Works
+
+on: push
+
+jobs:
+ build:
+  runs-on: ubuntu-laatest
+
+  steps:
+   - uses: actions/checkout@v3
+   - name: Run react code
+   - run: echo "Runing the workflow this eg action"
